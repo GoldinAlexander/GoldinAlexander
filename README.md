@@ -1,6 +1,6 @@
 ## Привет, я  Goldin Alexander :wave:
 
-### :man_technologist: Я подготовил клиент-серверный проект интернет магазина "BookStore":  
+### :man_technologist: Я подготовил клиент-серверный демо-проект интернет магазина "BookStore":  
 - Репозиторий [BookStore.Server](https://github.com/GoldinAlexander/BookStore.Server) серверная часть: C#/.NET Core 3.1/MSSQL Server/MSSQL/xUnit.
 - Репозиторий [BookStore.Client](https://github.com/GoldinAlexander/BookStore.Client) клиентсая часть: JavaScript/React.js/Redux
 
