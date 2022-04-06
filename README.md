@@ -1,4 +1,4 @@
-## Привет, я  [GoldinAlexander] :wave:
+## Привет, я  GoldinAlexander :wave:
 
 ### :man_technologist: Я подготовил клиент-серверный проект интернет магазина "BookStore":  
 - Репозиторий [BookStore.Server](https://github.com/GoldinAlexander/BookStore.Server) серверная часть: C#/.NET Core 3.1/MSSQL Server/MSSQL
@@ -7,7 +7,7 @@
 ### :email: E-mail: goldin.alexandr.m.1960@yandex.ru
 
 ___
-### - Краткое описан
+### - Краткое описание
 
 * Главная страница с корзиной покупок и формой заказа
 
