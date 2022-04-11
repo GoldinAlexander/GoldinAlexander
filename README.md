@@ -2,6 +2,7 @@
 
 ### :man_technologist: Я подготовил pet-project client-server Web app интернет магазин "BookStore" для ПК:  
 - Репозиторий [BookStore.Server](https://github.com/GoldinAlexander/BookStore.Server) серверная часть: C#/.NET Core 3.1/Web API/MSSQL Server/MSSQL/EF/N-tier ahitecture/xUnit,
+- Репозиторий [BookStore.SqlScript]
 - Репозиторий [BookStore.Client](https://github.com/GoldinAlexander/BookStore.Client) клиентсая часть: JavaScript/React.js/Redux.
 
 ### :email: E-mail: goldin.alexandr.m.1960@yandex.ru
