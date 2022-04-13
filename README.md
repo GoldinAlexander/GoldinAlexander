@@ -1,7 +1,7 @@
 ## Привет, я  Goldin Alexander :wave:
 
 ### :man_technologist: Выкладываю Pet-project client-server Web app интернет магазин "BookStore" для ПК:  
-- Репозиторий [BookStore.Server](https://github.com/GoldinAlexander/BookStore.Server) серверная часть: C#/ASP.NET Core 3.1/Web API/EF/N-tier ahitecture/CORS/SwaggerGen/xUnit,
+- Репозиторий [BookStore.Server](https://github.com/GoldinAlexander/BookStore.Server) серверная часть: C#/ASP.NET Core 3.1/Web API/EF/N-tier ahitecture/CORS/Swagger/xUnit,
 - Репозиторий [BookStore.SqlScript](https://github.com/GoldinAlexander/BookStore.SqlScript.git) содержит файл BookStoreScript.sql для создания базы данных этого проекта: MSSQL Server/T-SQL/SQL Server Management Studio,
 - Репозиторий [BookStore.Client](https://github.com/GoldinAlexander/BookStore.Client) клиентсая часть: JavaScript/React.js/Redux.
 
