@@ -9,7 +9,7 @@
 
 ___
 ### - Краткое описание
-* Visual Studio Структура решения **BookStore.Server** с Onion-архитектурой и инверсией зависимостей 
+* Структура решения **BookStore.Server** с Onion-архитектурой и инверсией зависимостей 
  
 ![VSSolutionStructure](https://user-images.githubusercontent.com/75939181/164613381-fc99307b-abd0-469e-b874-508f09d0efc0.JPG)
 _____
