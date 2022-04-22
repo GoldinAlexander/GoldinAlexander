@@ -10,7 +10,9 @@
 ___
 ### - Краткое описание
 * Структура решения **BookStore** в Visual Studio 2019
-
+ 
+![VSSolutionStructure](https://user-images.githubusercontent.com/75939181/164613381-fc99307b-abd0-469e-b874-508f09d0efc0.JPG)
+_____
 * Главная страница **BookStore** со статистикой, фильтрами, корзиной покупок, кнопкой продолжить, формой заказа, и кнопкой **Проверить**
 
 ![scan1 for github](https://user-images.githubusercontent.com/75939181/161836623-1c1c30ce-17a5-4ead-9552-9a42d92efc4a.JPG)
