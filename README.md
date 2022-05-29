@@ -5,7 +5,7 @@
 - Репозиторий [BookStore.SqlScript](https://github.com/GoldinAlexander/BookStore.SqlScript.git) содержит файл **BookStoreScript.sql** для создания **базы данных** этого проекта: MSSQL Server/T-SQL/SQL Server Management Studio,
 - Репозиторий [BookStore.Client](https://github.com/GoldinAlexander/BookStore.Client) **клиентсая часть**: JavaScript/React.js/Redux.
 
-### :email: E-mail: goldin.alexandr.m.1960@yandex.ru
+### :email: goldin.alexandr.m.1960@yandex.ru
 ### :computer: http://bookstore-server.ru
 ### :computer: https://book-store-client.vercel.app
 
