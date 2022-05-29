@@ -7,7 +7,7 @@
 - Репозиторий [BookStore.Client](https://github.com/GoldinAlexander/BookStore.Client) **клиентсая часть**: JavaScript/React.js/Redux.
  ### Вариант 2
 - Репозиторий [BookStore.DockerCompose](https://github.com/GoldinAlexander/BookStore.DockerCompose.git) **full stack**:
-Docker/DockerCompose/Nginx/DockerHub.
+C#.Net Core/React.js/Docker/DockerCompose/Nginx/DockerHub.
 ### :email: goldin.alexandr.m.1960@yandex.ru
 ### :computer: http://bookstore-server.ru
 ### :computer: https://book-store-client.vercel.app
