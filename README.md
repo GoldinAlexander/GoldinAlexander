@@ -9,7 +9,7 @@
 - Репозиторий [BookStore.DockerCompose](https://github.com/GoldinAlexander/BookStore.DockerCompose.git) **full stack**:
 C#.Net Core/React.js/Docker/DockerCompose/Nginx/DockerHub.
 ### :email: goldin.alexandr.m.1960@yandex.ru
-### :computer: http://bookstore-server.ru
+### :computer: https://bookstore-server.ru
 ### :computer: https://book-store-client.vercel.app
 
 
