@@ -6,6 +6,7 @@
 - Репозиторий [BookStore.Client](https://github.com/GoldinAlexander/BookStore.Client) **клиентсая часть**: JavaScript/React.js/Redux.
 
 ### :email: E-mail: goldin.alexandr.m.1960@yandex.ru
+### :site: http://bookstore-server.ru/
 
 ___
 ### - Краткое описание
