@@ -5,7 +5,7 @@
 - Репозиторий [BookStore.Server](https://github.com/GoldinAlexander/BookStore.Server) **серверная часть**: C#/ASP.NET Core 3.1/Web API/EF/N-tier ahitecture/CORS/Swagger/xUnit,
 - Репозиторий [BookStore.SqlScript](https://github.com/GoldinAlexander/BookStore.SqlScript.git) содержит файл **BookStoreScript.sql** для создания **базы данных** этого проекта: MSSQL Server/T-SQL/SQL Server Management Studio,
 - Репозиторий [BookStore.Client](https://github.com/GoldinAlexander/BookStore.Client) **клиентсая часть**: JavaScript/React.js/Redux.
- ### Вариант 2
+ ### Вариант 2 - BookStore.DockerCompose
 - Репозиторий [BookStore.DockerCompose](https://github.com/GoldinAlexander/BookStore.DockerCompose.git) **full stack**:
 C#.Net Core/React.js/Docker/DockerCompose/Nginx/DockerHub.
 ### :email: goldin.alexandr.m.1960@yandex.ru
